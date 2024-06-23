@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: rgb(175, 125, 46);
+  background-color: rgb(122, 22, 189);
   position: relative;
   z-index: 5;
 }
@@ -1168,7 +1168,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/background.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
